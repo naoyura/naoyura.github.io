@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[なおゆらっぴんぐブログ]]></title>
+  <link href="http://naoyura.github.io/atom.xml" rel="self"/>
+  <link href="http://naoyura.github.io/"/>
+  <updated>2013-09-15T01:06:00+09:00</updated>
+  <id>http://naoyura.github.io/</id>
+  <author>
+    <name><![CDATA[なおゆら]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[diary]]></title>
+    <link href="http://naoyura.github.io/blog/2013/07/25/diary/"/>
+    <updated>2013-07-25T17:18:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/07/25/diary</id>
+    <content type="html"><![CDATA[<h3>最近のできごと</h3>
+
+<p>表題のとおりです。</p>
+
+<!-- more -->
+
+
+<h3>所属が変わります</h3>
+
+<p>転職します。</p>
+
+<p>でも、これまでとは専門分野も変わってしまうので、イチから勉強です。しばらくは収入もあまりないと思うのだけれど、その分時間がとれるので、自分で勉強したり、自分の個人プロジェクト等に当てたいと思います。また、施設としては魅力的なアレコレを備えているし、僕は専門書とApple製品に多くのお金を貢いでいるので、少なくとも専門書を自費で購入し所有するプライオリティは低くなります。すぐそばに専門書が大量に所蔵された図書館が24時間使えるわけだし。</p>
+
+<h3>引越し</h3>
+
+<p>1週間ほど時間が空くので、ぼちぼち引越しも検討し、私物は実家なりに送ってしまおうと思います。僕の適当試算によると引越しの当月はネットの解約等が発生するなど出費がかさみますが、次の月からは数万ほどは節約になるはずなのでデカいかなと思っています。</p>
+
+<h3>もろもろ</h3>
+
+<p>下記の記事がまだ書けてないので時間みつけて何とかしなきゃと思っています。</p>
+
+<ul>
+<li>7月21日、湯涌ぼんぼり点灯式のレポート、動画のうp</li>
+<li>7月23日、京都旅行のレポート</li>
+</ul>
+
+
+<p>来月以降は、どのような毎日を送ることになるのかあまり想像がつかないのですが、できれば近いうちにまた旅行に行きたいなーと思っています。</p>
+
+<p>例えば、僕は今年になって三名泉と呼ばれる、有馬温泉(兵庫県)、草津温泉(群馬県)、下呂温泉(岐阜県)に行くことができました。で、次なる目標は道後温泉(愛媛県)か白浜温泉(和歌山県)に行きたいと思ってます。そしてこの2ヶ所両方に行けば、有馬温泉とあわせて三大古泉となります。行きたい…。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[今日の戯言]]></title>
+    <link href="http://naoyura.github.io/blog/2013/06/27/coffee-beans-persistency/"/>
+    <updated>2013-06-27T20:08:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/06/27/coffee-beans-persistency</id>
+    <content type="html"><![CDATA[<h3>はじめに</h3>
+
+<p>あまりに食に対するこだわりがないので、このままじゃいけないと最近はコーヒーにこだわりはじめました。</p>
+
+<!-- more -->
+
+
+<p>僕は飲み物は特段の理由がない限り、ほとんどコーヒー系統しか飲みません、飲めません。これはもう5年以上そうです。でもコーヒー系統という以外にこだわりはなく、コンビニの缶コーヒー、コーヒー・カフェオレ系ペットボトル飲料などなど…。</p>
+
+<p>そして、近年は部屋にいる際にはインスタントコーヒーを一日5杯ほど飲んでいました。でもここ1、2年、タリーズ等のカフェで作業をするようになったり(最近はそうでもない)、最近のコンビニで挽きたてのコーヒーが手軽に飲めて、あえてまずい缶コーヒーを飲む理由がなくなったり、それ以上に部屋でインスタントを飲んでも満足できなくなるという事態に陥りました。</p>
+
+<h3>コーヒーを豆から挽くために</h3>
+
+<p>そのようなこともあり、美味しいコーヒーを部屋でも飲むためコーヒーを豆から挽くべく、今年度はじめあたりにミル付きの全自動コーヒーメーカーを買いました。手動のミルでもよかったのですが、毎日の手間とメンテナンスの容易さから実際的な判断をしました。</p>
+
+<p>今では近所のコーヒー豆専門店で豆を購入し、キャニスターに移し替えて冷蔵庫に保存、基本的に朝夕2杯ずつ飲むことを習慣化しています。コーヒーメーカーで豆が挽かれた際の香りがファンで部屋に循環し自分のデスクまで運ばれてくる瞬間が至高です。そして、やっぱりダンチで美味しい。</p>
+
+<h3>コーヒーにこだわる</h3>
+
+<p>コーヒーにこだわるという方は結構いると思います。僕は最近こだわりはじめたド素人なので、そもそもどうこだわればよいだろうと考えてしまいます。多くの方は長年コーヒーを愛飲し、その経験でもってこだわりが生まれてくるのだと思います。しかし、僕は日が浅い。</p>
+
+<h3>コーヒーにシステマティックにこだわる</h3>
+
+<p>そこで、システマティックにこだわるようにしています。すなわち、経験から「前回はこの豆だったから、今回はこの豆」のような選択方法ではなく、常に可変パラメータは1つになるようにこだわります。例えば、前回僕は酸味／苦味の軸とコクの深い／ソフトの2軸からなる2次元マップ上の点としてプロットされた豆のプロパティに対して、酸味／苦味が同程度だけどコクの深い豆とソフトな豆という1軸上でのみプロパティを異にする豆を試してみました。</p>
+
+<h3>システマティックにこだわった結果</h3>
+
+<p>その結果、ソフトな豆はミルクと一緒に飲むのが美味しく、コクの深い豆はブラックが美味しいことが判明しました。個人的にはミルクイン、ブラックのオプション時にはそのように選択すると美味しいというだけで、味はどちらも普通に美味しい(逆に言えばそれ以上の違いはよく分からなかったという…)。そして今回は深煎りコーヒーというカテゴリで、苦味が同程度の豆を2種類選択し、豆自体の違いが判別可能なのかを試してみようと思い、豆を選択しました。</p>
+
+<h3>結論</h3>
+
+<p>このように可変パラメータを1つだけにして比較するというのは科学実験ではあたりまえのことだし、科学実験に限らずこのような比較に持ち込まないとパラメータを可変させた場合の変化にかかわる因果関係を特定することは困難です。あ、そういえば、コーヒーといえば挽き方もいろいろありますが、僕の購入したコーヒーメーカーは挽き方を変えることができず細挽きしかできませんので、挽き方は固定パラメータです。</p>
+
+<p>食に対するこだわりがない分、せめてよく愛飲するコーヒーに関しては違いの分かる人間になりたい。</p>
+
+<h3>戯言</h3>
+
+<p>この歳になってはもう嫌で仕方がないのですが、また一つ歳をとってしまいました。僕はこの一年どれだけのことができただろうか。缶コーヒーやインスタントコーヒーのような不味い日々を送ってきたのではないか、あるいは水で薄まったドリップコーヒーのように密度の薄い日々を送ってしまったのではないかとか考えてしまします。</p>
+
+<p>例年そんなことを考えていたので、今年は充実した1年にするぞと毎年前年を上方に更新するよう心掛けてきました。そして、今年は僕基準だとそう悪くない、ある程度充実した日々を送れたと思っています。それでもまだまだ頑張れたんじゃないかと思える余地はあるので、もっと精進しようと思います。</p>
+
+<p>青森での一件を終えて、もろもろ一段落してしまいました。これからどうしていこうかと思案しています。1ヶ月後がおよそのタイムリミットです。楽しいことができるような選択をしていきたいです。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[はじめてのTOEIC、公式スコア]]></title>
+    <link href="http://naoyura.github.io/blog/2013/06/17/my-first-official-toeic-score/"/>
+    <updated>2013-06-17T17:15:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/06/17/my-first-official-toeic-score</id>
+    <content type="html"><![CDATA[<h3>TOEIC結果返却</h3>
+
+<p>というわけで、はじめてTOEICを受験した際のスコアが返ってきました。</p>
+
+<p><img src="https://pbs.twimg.com/media/BM8VHTYCIAAMUrn.jpg"></p>
+
+<p>ずっとそわそわしながら待ってました。以下、駄文。</p>
+
+<!-- more -->
+
+
+<h3>受験準備</h3>
+
+<p>個人的に英語のために英語を勉強することに時間を割くのが嫌だったのですが、TOEICはペーパーのテストです。公式の問題集も出版されており、問題の傾向や時間配分を予め知っておく必要があります。これは最低限おさえておかなければと思い、TOEICの公式問題集を購入しました。</p>
+
+<p>1日1回分の分量をこなすと、1回分が本番1回分の分量なので2時間。しかも問題数が多く、1回分こなすと結構へとへとです。本当はもっと早く取り組みはじめるべきだったのですが、結局3日前から勉強をはじめました。</p>
+
+<p>受験料を払って受験するのに3日前からって…。という思いもよぎったのですが、3日前から勉強はじめれば、&#8221;3日坊主&#8221;は定義上意味をなさず、「3日坊主にならずにすむ！」と前向きに考え取り組みました。</p>
+
+<h3>受験当日</h3>
+
+<p>たしか、30分前くらいに会場入りしました。大学生風の方が多いように見受けられました。参考書を確認している人も結構いました。僕も参考書を持参したのですが、結局見ずにマークシート必要事項かきかきしてました。</p>
+
+<p>会場は部屋が狭く、20人くらいの小部屋でした。リスニングはCDラジカセで今どき？！と思いました。監督スタッフのアナウンスが抑揚を欠いていて、あまりにも機械的だったのでCD再生されたのかと思いビックリしました。</p>
+
+<h3>試験を振り返って</h3>
+
+<p>リスニングはCDラジカセから一番遠い席で、かつ僕はあまり耳が良くないのか日本語ですら聞きとりが苦手です。それが如何ほど関係するのか分かりませんが、リスニング中にもあまり解けてる自信はありませんでした。結果はイマイチ…。前日の公式問題集の際には400点も射程に入っていたので残念な結果となりました。</p>
+
+<p>リーディングは逆に、たしか時間が5分以上余り、ちょっとした見直しや、手の側面についた黒鉛が移って汚れたマークシートのけしけしに時間を当てることができました。物にあふれた部屋より、会場の方が集中できたのかもしれません。</p>
+
+<h3>結果</h3>
+
+<p>その結果はほぼそのまま点数に反映されている様に思います。
+800越えればいいなーくらいに思っていました。</p>
+
+<p>僕は英語の論文を読むので英語を読解する必要がありますが、工学系の論文に使われてるものとTOEICは全然別物です。今回は公式スコアを保有する目的で受験したので、この結果を受けて英語力アップに特別な勉強をするつもりはありません。これからも粛々と最先端技術の論文が読めればいいなーと思う程度です。リスニングにしても、そんなの数ヶ月も留学すれば簡単に向上すると思います。</p>
+
+<p>成毛眞さんの『日本人の9割に英語はいらない』という本は面白く為になりました。本当に英語を必要な人ってそんないないよね？いらないのに英語勉強する必要あるの？そして英語ばかり勉強して肝心の話の内容がつまらないと意味ないよねー。それくらいなら別の本読んで教養つけるべきでしょ、とかそんな内容だっかと(適当)。僕も基本的に賛同。海外に行くのなら事前に準備するのも必要かもしれないし、現地に行ってから勉強した方が効率的だと考える向きもあるかと思います。日本にいてかつ英語と無縁なら別に勉強する必要は感じません。</p>
+
+<p>TOEICのスコアは日本で自慢する程度には役に立つと思いますが、結局話せるかどうかこそ重要なのは変わりません。ちなみに僕は英語で会話するのは得意ではありません。相手が簡単な表現に言い換えてくれないと無理です。ボキャブラリーも豊富ではありません。そもそも単語を覚える努力をしてないので当然です。でもペーパーのリーディングでは単語の意味が推論できるので読み取りにそれほど支障はありません。試験でもなければググれば良いだけです。そして良質な試験問題ほど良文ゆえ意味の推論がしやすいです。結局ペーパー試験ではかれるのはそういった能力なのではと思っています。</p>
+
+<h3>今後</h3>
+
+<p>アカデミックにいたころ、となりの研究室の先輩と講義や研究の実験参加を通じて仲良くなったのですが、その先輩はイギリスの大学でCS系を卒業しており、確かTOEICは860点くらいだったと思います。4年間いたので多分実際の会話も余裕だと思います。また、大学で知り合った中国からの留学生の方は企業に3年ほど勤めてから日本の大学に入ってきた方で、その方はTOEIC830点。もう一方は何してた方か知りませんが870点でした。自分の考えを流暢に相手に伝えることができていました。</p>
+
+<p>だからTOEICでその点数をとれば同等なんて似非論理もいいところですが、目安として考える分にはいいのかなと思います。そして僕のスコアはこれらに足りていないし、話せないのも自分で分かっているので、徐々にでも英語力が向上すればよいなーと思いました。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ブログ投稿用に写真を準備]]></title>
+    <link href="http://naoyura.github.io/blog/2013/06/14/photos-ready-for-blog/"/>
+    <updated>2013-06-14T16:20:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/06/14/photos-ready-for-blog</id>
+    <content type="html"><![CDATA[<h3>きっかけ</h3>
+
+<p>ブログに掲載している写真はツイッターに投稿した画像のURLからひっぱってきているのですが、手元にある他の写真を掲載したい場合もあります。</p>
+
+<p>特にGitHubは事実上容量無制限らしいので、どんどん写真を掲載したい。
+2011年の記事を下書きしてた際に追加の画像をiPhoneからインポートすることしました。</p>
+
+<!-- more -->
+
+
+<h3>Exifに関係する問題</h3>
+
+<p>iPhoneからインポートした画像にはExif情報があります。
+ここにOrientationという情報があり、写真をどういった向きで表示するのか書かれています。</p>
+
+<p>Orientationの値には1〜8まであり、順に列挙すると下記のようになります。</p>
+
+<ol>
+<li>そのまま</li>
+<li>上下反転</li>
+<li>180°回転</li>
+<li>左右反転</li>
+<li>反時計回りに90°回転</li>
+<li>時計回りに90°回転</li>
+<li>時計回りに90°回転、上下反転</li>
+<li>反時計回りに90°回転</li>
+</ol>
+
+
+<p>ただ、Exif情報に従ってプレビューするアプリばかりではなく、特にiPhoneやカメラから直接インポートした画像を、ツイッターで写真添付したものと同じに考えていると意図しないかたちで回転したり反転した状態で表示されてしまいます。ツイッター等で写真をアップロードするとJPGで圧縮されExif情報も除去されるから？</p>
+
+<p>とにかく、ExifのOrientationを参照して表示するアプリとそうでないアプリで写真の表示のされ方が違ってしまうのはマズいです。</p>
+
+<h3>iPhoneからインポートした画像をブログ投稿用に変換する</h3>
+
+<p>iPhoneからインポートした画像はIMG_dddd.JPGのようなファイル名になっています(例えば、IMG_0026.JPG)。</p>
+
+<p>そこで、指定したディレクトリ内のJPG画像をブログ投稿用のjpg画像に変換するスクリプトを作成しました。</p>
+
+<p>使い方は簡単です。例えば&#8221;./2011&#8221;ディレクトリ内の写真を変換するには、次のように指定します。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ ./photo_util.py ./2011</span></code></pre></td></tr></table></div></figure>
+
+
+<p>スクリプトの挙動は以下の通りです。</p>
+
+<ul>
+<li>指定ディレクトリ内の*.JPG画像をあつめる</li>
+<li>すでに変換されていれば当該ファイルをスキップする</li>
+<li>Exif[&lsquo;Orientation&rsquo;]情報を参考に写真を回転する</li>
+<li>写真を横幅600pxにリサイズする</li>
+<li>変換した写真を*_small.jpgの名で保存する</li>
+</ul>
+
+
+<p>手元の写真十数枚でためしたところ、まずiPhoneで撮影した写真のExif[&lsquo;Orientation&rsquo;]は1, 3, 6のいずれかだったのでスクリプトはこの3パターンのみとなっています(手抜き！……じゃなくて&#8221;怠惰&#8221;は三大美徳が一)。</p>
+
+<p>また、ブログ掲載用に横幅が600pxになるようリサイズも同時に行います。この段階で写真のExif情報は除去されてしまいます。</p>
+
+<p>スクリプトの実行はRAW画像が大きいためかちょっと時間がかかります(外部グラボ搭載時の旧MBAだと、1枚の写真につき1秒前後)。でも手作業と比較すれば断然ラク。</p>
+
+<p>スクリプトは<a href="https://gist.github.com/naoyura/5780064">gist</a>にもあります。gistの埋め込みが上手くいかないのでGitHubの方のスクリプトを貼り付けてあります。</p>
+
+<figure class='code'><figcaption><span> (photo_util.py)</span> <a href='http://naoyura.github.io/downloads/code/photo_util.py'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+</pre></td><td class='code'><pre><code class='py'><span class='line'><span class="c">#!/usr/bin/env python</span>
+</span><span class='line'>
+</span><span class='line'><span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Image</span>
+</span><span class='line'><span class="kn">from</span> <span class="nn">PIL.ExifTags</span> <span class="kn">import</span> <span class="n">TAGS</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">os</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">def</span> <span class="nf">get_exif</span><span class="p">(</span><span class="n">im</span><span class="p">):</span>
+</span><span class='line'>  <span class="n">ret</span>  <span class="o">=</span> <span class="p">{}</span>
+</span><span class='line'>  <span class="n">exif</span> <span class="o">=</span> <span class="n">im</span><span class="o">.</span><span class="n">_getexif</span><span class="p">()</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">if</span> <span class="ow">not</span> <span class="n">exif</span><span class="p">:</span>
+</span><span class='line'>    <span class="k">print</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span> <span class="o">+</span> <span class="s">&#39; has no exif and skipped.&#39;</span><span class="p">)</span>
+</span><span class='line'>    <span class="k">return</span> <span class="n">ret</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">for</span> <span class="n">tag</span><span class="p">,</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">exif</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
+</span><span class='line'>    <span class="n">decoded</span> <span class="o">=</span> <span class="n">TAGS</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">tag</span><span class="p">,</span> <span class="n">tag</span><span class="p">)</span>
+</span><span class='line'>    <span class="n">ret</span><span class="p">[</span><span class="n">decoded</span><span class="p">]</span> <span class="o">=</span> <span class="n">value</span>
+</span><span class='line'>  
+</span><span class='line'>  <span class="k">return</span> <span class="n">ret</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
+</span><span class='line'>  <span class="kn">import</span> <span class="nn">sys</span><span class="o">,</span> <span class="nn">glob</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span> <span class="ow">is</span> <span class="ow">not</span> <span class="mi">2</span><span class="p">:</span>
+</span><span class='line'>    <span class="k">print</span> <span class="s">&#39;Usage: $ python </span><span class="si">%s</span><span class="s"> dir_name&#39;</span> <span class="o">%</span> <span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+</span><span class='line'>    <span class="n">quit</span><span class="p">()</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nb">dir</span> <span class="o">=</span> <span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="c"># make a list of already processed photos</span>
+</span><span class='line'>  <span class="n">skip</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span><span class="p">[:</span><span class="o">-</span><span class="mi">10</span><span class="p">]</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">dir</span><span class="p">,</span> <span class="s">&#39;*.jpg&#39;</span><span class="p">))]</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">for</span> <span class="n">fn</span> <span class="ow">in</span> <span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">dir</span><span class="p">,</span> <span class="s">&#39;*.JPG&#39;</span><span class="p">)):</span>
+</span><span class='line'>    <span class="n">name</span><span class="p">,</span> <span class="n">ext</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">splitext</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">if</span> <span class="n">name</span> <span class="ow">in</span> <span class="n">skip</span><span class="p">:</span>
+</span><span class='line'>      <span class="k">print</span><span class="p">(</span><span class="n">name</span> <span class="o">+</span> <span class="s">&#39; is already processed and skipped.&#39;</span><span class="p">)</span>
+</span><span class='line'>      <span class="k">continue</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">print</span><span class="p">(</span><span class="s">&#39;processing &#39;</span> <span class="o">+</span> <span class="n">fn</span> <span class="o">+</span> <span class="s">&#39;...&#39;</span><span class="p">),</span>
+</span><span class='line'>    <span class="n">im</span>   <span class="o">=</span> <span class="n">Image</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span>
+</span><span class='line'>    <span class="n">exif</span> <span class="o">=</span> <span class="n">get_exif</span><span class="p">(</span><span class="n">im</span><span class="p">)</span>
+</span><span class='line'>    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">exif</span><span class="p">)</span> <span class="ow">is</span> <span class="ow">not</span> <span class="mi">0</span><span class="p">:</span>
+</span><span class='line'>      <span class="k">if</span> <span class="n">exif</span><span class="p">[</span><span class="s">&#39;Orientation&#39;</span><span class="p">]</span> <span class="ow">is</span> <span class="mi">1</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">im</span> <span class="o">=</span> <span class="n">im</span><span class="o">.</span><span class="n">resize</span><span class="p">((</span><span class="mi">600</span><span class="p">,</span> <span class="mi">450</span><span class="p">),</span> <span class="n">Image</span><span class="o">.</span><span class="n">ANTIALIAS</span><span class="p">)</span>
+</span><span class='line'>      <span class="k">elif</span> <span class="n">exif</span><span class="p">[</span><span class="s">&#39;Orientation&#39;</span><span class="p">]</span> <span class="ow">is</span> <span class="mi">3</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">im</span> <span class="o">=</span> <span class="n">im</span><span class="o">.</span><span class="n">rotate</span><span class="p">(</span><span class="mi">180</span><span class="p">)</span><span class="o">.</span><span class="n">resize</span><span class="p">((</span><span class="mi">600</span><span class="p">,</span> <span class="mi">450</span><span class="p">),</span> <span class="n">Image</span><span class="o">.</span><span class="n">ANTIALIAS</span><span class="p">)</span>
+</span><span class='line'>      <span class="k">elif</span> <span class="n">exif</span><span class="p">[</span><span class="s">&#39;Orientation&#39;</span><span class="p">]</span> <span class="ow">is</span> <span class="mi">6</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">im</span> <span class="o">=</span> <span class="n">im</span><span class="o">.</span><span class="n">rotate</span><span class="p">(</span><span class="o">-</span><span class="mi">90</span><span class="p">)</span><span class="o">.</span><span class="n">resize</span><span class="p">((</span><span class="mi">600</span><span class="p">,</span> <span class="mi">800</span><span class="p">),</span> <span class="n">Image</span><span class="o">.</span><span class="n">ANTIALIAS</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="n">out</span> <span class="o">=</span> <span class="n">name</span> <span class="o">+</span> <span class="s">&quot;_small&quot;</span> <span class="o">+</span> <span class="n">ext</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+</span><span class='line'>      <span class="n">im</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="n">out</span><span class="p">,</span> <span class="n">quality</span><span class="o">=</span><span class="mi">100</span><span class="p">)</span>
+</span><span class='line'>    <span class="k">print</span><span class="p">(</span><span class="s">&#39;finished.&#39;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[投稿テスト]]></title>
+    <link href="http://naoyura.github.io/blog/2013/06/11/test/"/>
+    <updated>2013-06-11T06:48:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/06/11/test</id>
+    <content type="html"><![CDATA[<h1>はじめに</h1>
+
+<p>GitHub Pagesでウェブサイトの無料ホスティングが可能ということで、ブログというか備忘録的なものを作ろうと、ずっと思ってました。
+以前、GitHub Pages + Twitter bootstrapでサイトを作成したことがあって、html直打ちで(稀に！)更新したりしてます。
+でも、ブログとなると機能が不足だし、というかoctopressと連携してブログ簡単に作れるんじゃん、ということで今回は<strong>GitHub Pages + octopress</strong>でブログを制作してみました。</p>
+
+<p>すでに多くの方がインストール・設定方法を公開してくれているので割愛。
+参考になったのは、<strong>octopressのソースをBitbucketのプライベートリポジトリで管理する</strong>Tips。これにより、</p>
+
+<ul>
+<li>ブログ記事の下書きをGitHubで公開せずにバージョン管理できる</li>
+</ul>
+
+
+<p>という点がポイント。</p>
+
+<p>初回投稿ということで、各種テスト。</p>
+
+<!-- more -->
+
+
+<h3>markdown記法</h3>
+
+<p>ここを参考に。</p>
+
+<p><a href="http://qiita.com/items/c686397e4a0f4f11683d">Markdown記法 チートシート #Qiita #Markdown &ndash; Qiita</a></p>
+
+<h3>埋め込みテスト</h3>
+
+<p>markdown記法でhtmlコードを埋め込むというのは無理らしく(一部使えるらしいですが)、ツイートや動画の埋め込みはどうしよう…と思っていたら、素晴らしいプラグインを公開している方がいたので、使わせていただきました。</p>
+
+<p><a href="http://shogo82148.github.io/blog/2012/08/09/oembed/">Octopress用OEmbedプラグインを作ってみた &ndash; Shogo&rsquo;s Blog</a></p>
+
+<p>使い方は簡単で、{% oembed URL %}とするだけ。</p>
+
+<ul>
+<li>ツイートの埋め込みテスト。</li>
+</ul>
+
+
+<blockquote class="twitter-tweet"><p>氷菓聖地巡礼、平湯民俗館、露天風呂。夜風が気持ちよく。貸切状態の露天風呂は最高…だけど、泳ぐには湯が熱いばら。 <a href="http://t.co/vqesrGEs5N">pic.twitter.com/vqesrGEs5N</a></p>&mdash; なおゆら (@nyaoyura) <a href="https://twitter.com/nyaoyura/statuses/343740897088925696">June 9, 2013</a></blockquote>
+
+
+<script async src="http://naoyura.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<ul>
+<li>YouTube埋め込みテスト</li>
+</ul>
+
+
+<iframe width="480" height="270" src="http://www.youtube.com/embed/RDb-tVcBySY?feature=oembed" frameborder="0" allowfullscreen></iframe>
+
+
+<h4>引用てすと</h4>
+
+<blockquote><p>旅の恥は掻き捨て</p></blockquote>
+
+<h3>数式テスト</h3>
+
+<p>下記サイトを参考にさせていただきました。</p>
+
+<p><a href="http://www.mk-mode.com/octopress/2013/01/03/octopress-display-tex-formula/">Octopress &ndash; TeX で数式表示！ &ndash; mk-mode BLOG</a></p>
+
+<p>{% math %} TeX数式 {% endmath %}のように指定する。</p>
+
+<script type="math/tex; mode=display">
+N(m,\sigma^{2})=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-m)^2}{2\sigma^{2}}}
+</script>
+
+
+<h3>記事のポスト</h3>
+
+<p>Mouというエディタを使うとライブプレビュー見ながら記事書けるの便利(有名ですよね)。</p>
+
+<p><a href="http://mouapp.com/">Mou &ndash; Markdown editor for web developers, on Mac OS X</a></p>
+
+<p>とは言え、ツイッターの方がより手軽なので、ブログは一連のツイートのまとめと、設定備忘録、あとは読んだ論文の紹介なんかがメインになるかも。</p>
+
+<h1>さいごに</h1>
+
+<p>画像表示テスト。markdown記法だとサイズ指定できないので、HTML imgタグで直接記述。ツイッターの画像だと:smallや:largeといった指定もできるけれど、幅何pxって指定したい。</p>
+
+<p>れっつフォト、なので。</p>
+
+<p><img src="https://pbs.twimg.com/media/BHxlFZiCIAEdi_t.jpg" alt="たまゆら進級イベTDCホール" width="400"></p>
+
+<p>そういえば、Twitter IDは@nyaoyura ですが、ブログのURLは、</p>
+
+<p>  <a href="http://naoyura.github.io/">http://naoyura.github.io/</a></p>
+
+<p>で、<strong>にゃおゆら(nyaoyura)</strong>でなく<strong>なおゆら(naoyura)</strong>なの自分でも紛らわしい。</p>
+]]></content>
+  </entry>
+  
+</feed>
