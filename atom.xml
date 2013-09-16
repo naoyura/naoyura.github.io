@@ -4,7 +4,7 @@
   <title><![CDATA[なおゆらっぴんぐブログ]]></title>
   <link href="http://naoyura.github.io/atom.xml" rel="self"/>
   <link href="http://naoyura.github.io/"/>
-  <updated>2013-09-16T18:54:17+09:00</updated>
+  <updated>2013-09-16T18:57:47+09:00</updated>
   <id>http://naoyura.github.io/</id>
   <author>
     <name><![CDATA[なおゆら]]></name>
@@ -92,11 +92,11 @@
 <p>上式の第一項はデータ項として、入力と出力が大きく変化し過ぎないように
 ペナルティを与える項で、第二項がRTV指標による項となります。他の指標とどう違った結果が得られるかは下図が直感的に分かりやすいです。(a)が入力、(b)がWindowd total variation、(c)がWindowed inherent variation、(d)がRTV、(e)が本手法適用結果となっています。</p>
 
-<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_1.jpg" alt="Figure2 [Xu et. al. 2012]より引用。" width="600"></p>
+<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_1.png" alt="Figure2 [Xu et. al. 2012]より引用。" width="600"></p>
 
 <p>定量的な評価結果は下図になります。赤線がテクスチャ、緑線がストラクチャで、他の指標よりRTVの方がより明確に(そしてロバストに)両者を区別できているのが分かります。</p>
 
-<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_2.jpg" alt="Figure3(bottom)[Xu et. al. 2012]より引用。" width="600"></p>
+<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_2.png" alt="Figure3(bottom)[Xu et. al. 2012]より引用。" width="600"></p>
 
 <p>この手法では、テクスチャに関する事前処理が必要ありません。また、本来ならば非凸なため非線形最適化を行わなければいけないのですが、著者らの寄与により、そのような項を部分に分解し、より簡単かつ高速に解くための数値計算法も提案されています。</p>
 
