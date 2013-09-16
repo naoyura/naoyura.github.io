@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 日記、論文、アニメ | なおゆらっぴんぐブログ]]></title>
+  <link href="http://naoyura.github.io/blog/categories/ri-ji-,-lun-wen-,-anime/atom.xml" rel="self"/>
+  <link href="http://naoyura.github.io/"/>
+  <updated>2013-09-16T18:28:30+09:00</updated>
+  <id>http://naoyura.github.io/</id>
+  <author>
+    <name><![CDATA[なおゆら]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[なもり先生の紙ナプ絵を＼ｱｯｶﾘ～ﾝ／しようとした結果→＼ﾅｯﾌﾟｷ〜ﾝ／]]></title>
+    <link href="http://naoyura.github.io/blog/2013/09/16/2013-09-16-rtv-applied-to-paper-napkin/"/>
+    <updated>2013-09-16T17:11:00+09:00</updated>
+    <id>http://naoyura.github.io/blog/2013/09/16/2013-09-16-rtv-applied-to-paper-napkin</id>
+    <content type="html"><![CDATA[<p>なもり先生の紙ナプキン・イラストはとても素晴らしいです。紙ナプキンの表面の質感(テクスチャ)が独特の味を醸し出していて、それでいて描かれているキャラはとても可愛い。</p>
+
+<p>ところで、以前から気になっていた論文を読んでMatlab環境もセットアップしたので、論文と共に提供されているデモコードを試してみました。以下、著者らによる提案手法をなもり先生の紙ナプ絵に適用してみた結果となります。</p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_teaser.jpg" alt="なもり先生の紙ナプ絵を＼ｱｯｶﾘ～ﾝ／しようとした結果→＼ﾅｯﾌﾟｷ〜ﾝ／" width="600"></p>
+
+<!-- more -->
+
+
+<h3>はじめに</h3>
+
+<p>改めて、なもり先生のイラストが素晴らしく可愛いことは周知の通りですし、ツイッターにもたくさんの"らくがき"を投稿され、目の保養が促進されます。</p>
+
+<p>特に、紙ナプキンに描かれたキャラクターは、キャラ自体が可愛いのもさることながら、紙ナプキンの質感(テクスチャ)が独特の味を醸し出すことでさらに魅力的な作品になっております。</p>
+
+<p>他方、最近読んだ下記の論文の手法に感銘を受けたのも記憶に新しいです。</p>
+
+<p><a href="http://www.cse.cuhk.edu.hk/leojia/projects/texturesep/index.html">Structure Extraction from Texture via Relative Total Variation</a></p>
+
+<p>プロジェクトサイトのトップにあるティザーイメージを見ると何をする手法なのか一目瞭然かと思いますが、テクスチャ上に描かれた前景の構造を抽出する手法となっています。詳細は本稿末尾の方に少し技術的な内容をーーとは言え直感的な説明としてですがーー紹介しますが、詳しくは論文で確認して下さい(理解が不十分で著者らの提案を正しく紹介できている保証はないいので…)。</p>
+
+<p>著者らが新規に提案する、"Relative Total Variation(RTV)&ldquo;という指標を用いると、著者らが言うところの"structure+texture"、すなわち、シャッターや壁面に描かれている類の多くのグラフィティや、タイルを敷き詰めて描いたモザイクアートのようなイラストから、背景を除去して全面のイラストだけを抽出することが可能となります。</p>
+
+<p>ということで、なもり先生の紙ナプ絵にRTVを適用してみようと思いました。結果画像を以下に示します。並べて掲載してあるものの左側がオリジナル画像、右側がRTVを適用した結果画像となります。</p>
+
+<h3>結果</h3>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_1.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_2.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_3.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_4.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_5.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_6.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_7.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_8.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_9.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_10.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_11.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_12.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<h3>おまけ</h3>
+
+<p>また、ノートに描かれた"らくがき"に適用した結果を示します。テクスチャあまり強くないので上手くいきませんでした。</p>
+
+<p><img src="http://naoyura.github.io/photos/2013/namori_note.jpg" alt="左：オリジナル画像、右：RTV適用結果。" width="600"></p>
+
+<h3>手法概要</h3>
+
+<p>この手法は、次の式がベースにあります。</p>
+
+<p><script type="math/tex; mode=display">
+\newcommand{\argmin}{\mathop{\rm arg~min}\limits}
+\argmin_S \sum_p (S_p &ndash; I_p)<sup>2</sup> + \lambda \cdot RTV
+</script></p>
+
+<p>上式の第一項はデータ項として、入力と出力が大きく変化し過ぎないように
+ペナルティを与える項で、第二項がRTV指標による項となります。他の指標とどう違った結果が得られるかは下図が直感的に分かりやすいです。(a)が入力、(b)がWindowd total variation、(c)がWindowed inherent variation、(d)がRTV、(e)が本手法適用結果となっています。</p>
+
+<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_1.jpg" alt="Figure2 [Xu et. al. 2012]より引用。" width="600"></p>
+
+<p>定量的な評価結果は下図になります。赤線がテクスチャ、緑線がストラクチャで、他の指標よりRTVの方がより明確に(そしてロバストに)両者を区別できているのが分かります。</p>
+
+<p><img src="http://naoyura.github.io/photos/2013/Xu_et_al_siga2012_2.jpg" alt="Figure3(bottom)[Xu et. al. 2012]より引用。" width="600"></p>
+
+<p>この手法では、テクスチャに関する事前処理が必要ありません。また、本来ならば非凸なため非線形最適化を行わなければいけないのですが、著者らの寄与により、そのような項を部分に分解し、より簡単かつ高速に解くための数値計算法も提案されています。</p>
+
+<p>この手法の応用は広く、ビットマップのベクトル化や線画抽出の前処理として用いたり、画像のコンポジションやSeam Carvingの際に用いることでより自然な結果を得ることができる様です。</p>
+
+<p>人間は"structure+texture"な画から前景だけを抽出し、何が描かれているか、あるいはトレースする場合を考えても、容易に背景テクスチャを無視することが可能です。しかし、計算機の場合にはそのような高次の処理はとても困難となります。この手法ではその困難を克服し、事前情報なしに抽出可能となりました。当然、苦手なタイプの画というのもあり、例えばテクスチャとストラクチャのスケールが同程度の場合、本手法では上手く処理できない模様です。</p>
+]]></content>
+  </entry>
+  
+</feed>
