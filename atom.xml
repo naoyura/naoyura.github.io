@@ -4,7 +4,7 @@
   <title><![CDATA[なおゆらっぴんぐブログ]]></title>
   <link href="http://naoyura.github.io/atom.xml" rel="self"/>
   <link href="http://naoyura.github.io/"/>
-  <updated>2013-10-01T10:55:13+09:00</updated>
+  <updated>2013-10-01T11:07:56+09:00</updated>
   <id>http://naoyura.github.io/</id>
   <author>
     <name><![CDATA[なおゆら]]></name>
@@ -27,20 +27,21 @@
 
 <p><code>imshow()</code>で<code>interpolation='nearest')</code>を指定すると、なめらかな補完ではなくピクセルで表示できる。以下にIPythonでの入出力例を示します。なおIPythonの起動時に、 <code>$ ipython --matplotlib</code> と指定してmatplotlibインテグレートモードで起動しておきます。</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
 <span class='line-number'>5</span>
 <span class='line-number'>6</span>
 <span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>from pylab import *
+</pre></td><td class='code'><pre><code class='py'><span class='line'><span class="kn">from</span> <span class="nn">pylab</span> <span class="kn">import</span> <span class="o">*</span>
 </span><span class='line'>
-</span><span class='line'>data = randint(0, 255, (15, 5))
-</span><span class='line'>subplot(121)
-</span><span class='line'>imshow(data)
-</span><span class='line'>subplot(122)
-</span><span class='line'>imshow(data, interpolation='nearest')</span></code></pre></td></tr></table></div></figure>
+</span><span class='line'><span class="n">data</span> <span class="o">=</span> <span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">255</span><span class="p">,</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
+</span><span class='line'><span class="n">subplot</span><span class="p">(</span><span class="mi">121</span><span class="p">)</span>
+</span><span class='line'><span class="n">imshow</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+</span><span class='line'><span class="n">subplot</span><span class="p">(</span><span class="mi">122</span><span class="p">)</span>
+</span><span class='line'><span class="n">imshow</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">interpolation</span><span class="o">=</span><span class="s">&#39;nearest&#39;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
 
 
 <p>matplotlibの<code>imshow</code>メソッドに関しては公式APIリファレンスも参照のこと。</p>
