@@ -4,7 +4,7 @@
   <title><![CDATA[Category: python | なおゆらっぴんぐブログ]]></title>
   <link href="http://naoyura.github.io/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://naoyura.github.io/"/>
-  <updated>2013-10-01T11:29:02+09:00</updated>
+  <updated>2013-10-01T12:44:26+09:00</updated>
   <id>http://naoyura.github.io/</id>
   <author>
     <name><![CDATA[なおゆら]]></name>
@@ -18,14 +18,14 @@
     <link href="http://naoyura.github.io/blog/2013/10/01/python-pylab-matlab-like-imshow/"/>
     <updated>2013-10-01T10:20:00+09:00</updated>
     <id>http://naoyura.github.io/blog/2013/10/01/python-pylab-matlab-like-imshow</id>
-    <content type="html"><![CDATA[<p>インタラクティブシェル上でpylabで画像を表示しようとしたけれど、上手く表示されなかったので調べてた際のメモ。</p>
+    <content type="html"><![CDATA[<p>インタラクティブシェル上でpylabで画像を表示しようとしたけれど、上手く表示されなかったので調べた際のメモ。</p>
 
 <p><img src="http://naoyura.github.io/photos/2013/fig-2013-10-01-python-pylab-matlab-like-imshow.png" alt="imshow結果。" width="600"></p>
 
 <!-- more -->
 
 
-<p><code>imshow()</code>で<code>interpolation='nearest'</code>を指定すると、なめらかな補完ではなくピクセルで表示できる。以下にIPythonでの入出力例を示します。なおIPythonの起動時に、 <code>$ ipython --matplotlib</code> と指定してmatplotlibインテグレートモードで起動しておきます。結果は上の画像のような表示になります。</p>
+<p><code>imshow()</code>で<code>interpolation='nearest'</code>を指定すると、なめらかな補完なしに表示できる。以下にIPythonでの入力した例を示します。なおIPythonの起動時に、<code>$ ipython --matplotlib</code> と指定してmatplotlibインテグレートモードで起動しておきます。結果は上の画像のような表示になります。</p>
 
 <p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
